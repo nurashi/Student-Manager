@@ -7,7 +7,7 @@ Features
 
 -Add a Student
         Input student details: ID, Name, Age, and Phone number.
-        Phone number must follow the format: 77XXXXXXXXX (starts with 77 and contains 11 digits).
+        Phone number must follow the format: 7########## (starts with 7 and contains 11 digits).
 
 -Delete a Student
         Remove a student by their ID.
